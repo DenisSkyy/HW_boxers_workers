@@ -88,7 +88,7 @@ public class Main {
 
         var workersNew = workers + 94;
         var workingHoursNew = workersNew * workingDay;
-        System.out.println("Если в компании работает " + workersNew + " человек, то всего " +  workingHoursNew + " часов работы может быть поделено между сотрудниками");
+        System.out.println("Если в компании работает  " + workersNew + " человек, то всего " +  workingHoursNew + " часов работы может быть поделено между сотрудниками");
 
 
 
